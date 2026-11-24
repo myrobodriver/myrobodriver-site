@@ -1,0 +1,26 @@
+{
+  "name": "MyRoboDriver",
+  "short_name": "MyRoboDriver",
+  "description": "The chauffeur everyone can afford. An independent ride service in Tesla vehicles, now serving Middle Georgia.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#C8102E",
+  "icons": [
+    {
+      "src": "/brand/favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/brand/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/brand/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
